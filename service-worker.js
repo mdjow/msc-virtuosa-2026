@@ -1,9 +1,9 @@
-const VERSION = 'msc-guide-v3';
+const VERSION = 'msc-guide-v4-reference-images';
 const SHELL = `${VERSION}-shell`;
 const APP_FILES = [
   './', './index.html', './manifest.webmanifest', './vendor/leaflet.css',
   './vendor/leaflet.js', './assets/icon.svg', './assets/icon-192.png',
-  './assets/icon-512.png', './assets/buzios-praia-azeda.jpg',
+  './assets/icon-512.png', './assets/buzios-orla-bardot.jpg',
   './assets/salvador-pelourinho.jpg', './assets/maceio-marco-corais.jpg'
 ];
 
